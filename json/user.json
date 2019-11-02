@@ -1,0 +1,51 @@
+[{
+        "id": 1,
+        "name": "admin",
+        "password": "8376ac810bb9f231d28fcf1f",
+        "sex": 0,
+        "email": "xxxx@qq.com",
+        "phone": "18310612838",
+        "departmentId": 1,
+        "jobId": 1,
+        "desc": "xxxx",
+        "time": 1568640222269,
+        "state": 0
+    }, {
+        "id": 2,
+        "name": "李四",
+        "password": "8376ac810bb9f231d28fcf1f",
+        "sex": 0,
+        "email": "xxxx@qq.com",
+        "phone": "13041086186",
+        "departmentId": 1,
+        "jobId": 5,
+        "desc": "",
+        "time": 1568640222269,
+        "state": 0
+    }, {
+        "id": 3,
+        "name": "王五",
+        "password": "8376ac810bb9f231d28fcf1f",
+        "sex": "0",
+        "email": "xxxx@163.com",
+        "phone": "12356985478",
+        "departmentId": "2",
+        "jobId": "2",
+        "desc": "xxxxx",
+        "time": 1568955194924,
+        "state": 0
+    },
+    {
+        "id": 4,
+        "name": "陆一",
+        "password": "8376ac810bb9f231d28fcf1f",
+        "sex": "0",
+        "email": "xxxx@163.com",
+        "phone": "12356985478",
+        "departmentId": "2",
+        "jobId": "2",
+        "desc": "CTO",
+        "time": 1568955194924,
+        "state": 0
+    }
+]
